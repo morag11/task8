@@ -1,3 +1,3 @@
 let yourName = (prompt("What's your name?"))
 
-console.log(yourName)
+console.log(${yourName})
