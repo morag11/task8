@@ -1,3 +1,3 @@
-yourName = (prompt("What's your name?"))
+let yourName = (prompt("What's your name?"))
 
 console.log(yourName)
